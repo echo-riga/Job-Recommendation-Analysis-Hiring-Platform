@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|c:\\users\\loxon\\downloads\\plps\\plp\\plp\\plpfaculty\\plpfaculty\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\archive.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\archive.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\reason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\reason.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PLPFACULTY||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\professor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\professor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\report.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\section.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\section.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\plpfaculty\\db.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{131098A2-7144-47AF-BA36-E9C4C8DB02E0}|PLPFACULTY\\PLPFACULTY.vbproj|solutionrelative:plpfaculty\\db.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1421,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Form1.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Form1.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Form1.vb*",
+              "RelativeToolTip": "PLPFACULTY\\Form1.vb*",
+              "ViewState": "AgIAAP0RAAAAAAAAAAAAADESAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T15:02:17.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Form1.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Form1.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Form1.vb [Design]*",
+              "RelativeToolTip": "PLPFACULTY\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-21T00:34:22.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Archive.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Archive.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Archive.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Archive.vb",
+              "RelativeToolTip": "PLPFACULTY\\Archive.vb",
+              "ViewState": "AgIAAIkAAAAAAAAAAAA9wMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T14:26:03.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reason.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Reason.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Reason.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Reason.vb",
+              "RelativeToolTip": "PLPFACULTY\\Reason.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T14:11:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Section.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Section.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Section.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Section.vb",
+              "RelativeToolTip": "PLPFACULTY\\Section.vb",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T14:11:34.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Student.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Student.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Student.vb",
+              "RelativeToolTip": "PLPFACULTY\\Student.vb",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAywJUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T14:08:26.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Db.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Db.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Db.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Db.vb",
+              "RelativeToolTip": "PLPFACULTY\\Db.vb",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T14:03:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Professor.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Professor.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Professor.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Professor.vb",
+              "RelativeToolTip": "PLPFACULTY\\Professor.vb",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAQwIwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-26T08:47:56.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PLPFACULTY",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\PLPFACULTY.vbproj",
+              "RelativeDocumentMoniker": "PLPFACULTY\\PLPFACULTY.vbproj",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\PLPFACULTY.vbproj*",
+              "RelativeToolTip": "PLPFACULTY\\PLPFACULTY.vbproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-25T18:24:14.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.vb",
+              "DocumentMoniker": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Report.vb",
+              "RelativeDocumentMoniker": "PLPFACULTY\\Report.vb",
+              "ToolTip": "C:\\Users\\Loxon\\Downloads\\PLPs\\PLP\\PLP\\PLPFACULTY\\PLPFACULTY\\Report.vb",
+              "RelativeToolTip": "PLPFACULTY\\Report.vb",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAIwCkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-25T15:02:47.779Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 47,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
