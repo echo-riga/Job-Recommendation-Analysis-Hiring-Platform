@@ -11,7 +11,7 @@ Reusable template system for managing consultations between professors and stude
 - QR code login system (QR sent via email after signup)
 - Multi-role access (Students, Professors, Admin)
 - Excel import for student data
-- Customizable templates (system name, logos)
+- Customizable templates (system name, logos and more)
 - Graduate functionality to move students to next level
 - Archive/hide actions for records
 
@@ -32,13 +32,13 @@ Reusable template system for managing consultations between professors and stude
 ---
 
 ## 🛠️ Tech Stack
-
-| Component | Technology     |
-| --------- | -------------- |
+| Component | Technology |
+|-----------|------------|
 | Framework | .NET Framework |
-| Language  | VB.NET         |
-| Database  | MariaDB        |
-| Server    | XAMPP          |
+| Language | VB.NET |
+| UI Library | Guna UI |
+| Database | MariaDB |
+| Server | XAMPP |
 
 ---
 
