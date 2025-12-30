@@ -1,12 +1,12 @@
 # Consultation System
 
-## 📌 Overview
+##  Overview
 
 Reusable template system for managing consultations between professors and students. Tracks consultation purposes, generates analytics reports, and supports institutional customization.
 
 ---
 
-## ✨ Features
+##  Features
 
 - QR code login system (QR sent via email after signup)
 - Multi-role access (Students, Professors, Admin)
@@ -17,7 +17,7 @@ Reusable template system for managing consultations between professors and stude
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 <p align="center">
   <img src="screenshots/screenshot1.png" width="32%" />
@@ -35,7 +35,7 @@ Reusable template system for managing consultations between professors and stude
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component  | Technology     |
 | ---------- | -------------- |
